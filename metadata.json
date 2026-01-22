@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Expense Insights Dashboard",
+  "description": "A sophisticated financial dashboard built with React and Gemini AI to analyze daily expenses, track spending patterns by category, and visualize trends over time.",
+  "requestFramePermissions": []
+}
